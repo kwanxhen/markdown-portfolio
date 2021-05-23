@@ -1,3 +1,4 @@
 - Bitcoin
+  - Satoshi :heart:
 - Ethereum
 - Doge
