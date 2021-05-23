@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Great at **React**, favourite part of es6 is **reduce** and **filter** function. *Learning* frameworks to level up my *execution skills*. 
